@@ -1,6 +1,6 @@
 
 # Welcome to BAR! 
-This sheet is meant to help give direction in your learning process so that you can easily go down and check to make sure you understand these concepts, before continuing deeper, to both solidify your foundation as a player, and also save you time by learning in a more efficient way.
+This document is meant to help give direction in your learning process so that you can easily go down and check to make sure you understand these concepts, before continuing deeper, to both solidify your foundation as a player, and also save you time by learning in a more efficient way. It contains most of the information found in the [original sheet](https://github.com/drivver44/BAR-mentor-guide-organization/blob/main/BAR%20Rubric%20-%20Sheet1.csv)
 
 ## The Prime Directive, or how to play BAR
 First and foremost, understanding the core idea of how the game is played, and what your major goals and choices revolve around, is absolutely essential in making the learning process more efficient, and helping you to become the best player you can be.
@@ -25,11 +25,11 @@ This series will give you everything you need to start playing the game 'properl
 - Intro to Naval,"what units to build and why, and general goal regarding ships and water
 - When and why do we go T2?
   - general rule of thumb
-- Radar,Collecting info is crucial
+- [Radar,Collecting info is crucial](https://www.youtube.com/watch?v=9f2iKe2sD4c&list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8)
 
 ### Novice Series
 
-- Frontline Bot Opener
+- Frontline Bot Opener 
 - How to capture/destroy a fortified position (with t1bots)
   - questuion order here1
 - How to hold a position t1
