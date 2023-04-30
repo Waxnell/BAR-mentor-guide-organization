@@ -1,5 +1,13 @@
+- [Welcome to BAR!](#welcome-to-bar)
+	- [The Prime Directive, or how to play BAR](#the-prime-directive-or-how-to-play-bar)
+		- [Map Control](#map-control)
+	- [Starter Series](#starter-series)
+	- [Novice Series](#novice-series)
+	- [Intermediate Series](#intermediate-series)
+	- [Advanced Series](#advanced-series)
 
-# Welcome to BAR! 
+
+# Welcome to BAR!
 This document is meant to help give direction in your learning process so that you can easily go down and check to make sure you understand these concepts, before continuing deeper, to both solidify your foundation as a player, and also save you time by learning in a more efficient way. It contains most of the information found in the [original sheet](https://github.com/drivver44/BAR-mentor-guide-organization/blob/main/BAR%20Rubric%20-%20Sheet1.csv)
 
 ## The Prime Directive, or how to play BAR
@@ -8,13 +16,15 @@ First and foremost, understanding the core idea of how the game is played, and w
 To that effect, we have the 'prime directive'. This is, so to speak, the guiding hand behind all of our strategies, tactics, and skills that you will learn on this list, and the 'goal' you are trying to achieve by enacting these things. All the choices you make, and practice you put into these concepts will feed into this, and as a result, into having more fun, and winning more games :)
 
 ### Map Control
-This game is built around map control. By controlling more of the map, you control more resources, and more information. By gaining this advantage, you gain access to a variety of tactics that will checkmate your opponents(s), and put you into a winning position. 
+This game is built around map control. By controlling more of the map, you control more resources, and more information. By gaining this advantage, you gain access to a variety of tactics that will checkmate your opponents(s), and put you into a winning position.
 
-The sheer chasm of difference in how fast resources are collected from MEXs, versus building Energy production and converters, can rarely be overstated. Controlling more of the map puts you at a completely insurmountable income advantage when met directly. 
+The sheer chasm of difference in how fast resources are collected from MEXs, versus building Energy production and converters, can rarely be overstated. Controlling more of the map puts you at a completely insurmountable income advantage when met directly.
 
-This leads to the myriad of strategies to take, defend, and sabotage your opponent, instead of just trying to 'not lose'. Take, hold, and use the space and mexs on the map, and victory shall follow close at hand."
+This leads to the myriad of strategies to take, defend, and sabotage your opponent, instead of just trying to 'not lose'.
 
-### Starter Series
+"Take, hold, and use the space and mexs on the map, and victory shall follow close at hand." -A smart cookie
+
+## Starter Series
 This series of ideas regards the most important steps towards being able to set yourself up to even START using more advanced tactics and strategies, and putting you on more even ground with more established players.
 
 This series will give you everything you need to start playing the game 'properly' and will truly open up your options and enjoyment of the game.
@@ -27,9 +37,9 @@ This series will give you everything you need to start playing the game 'properl
   - general rule of thumb
 - [Radar,Collecting info is crucial](https://www.youtube.com/watch?v=9f2iKe2sD4c&list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8)
 
-### Novice Series
+## Novice Series
 
-- Frontline Bot Opener 
+- Frontline Bot Opener
 - How to capture/destroy a fortified position (with t1bots)
   - questuion order here1
 - How to hold a position t1
@@ -42,7 +52,7 @@ This series will give you everything you need to start playing the game 'properl
   - Drag line move, fight command, autohks, a rc and drag etc
   - question this here placement category?
 
-### Intermediate Series
+## Intermediate Series
 
 - Your own personal death ray (dgun)
   - how to use it defensively, offensively, and the ruleset regarding last com standing
@@ -61,5 +71,5 @@ This series will give you everything you need to start playing the game 'properl
   - one of the only things on this list with explicit instructions regarding execution, in regards to the speed teching. Ever heard of a timing attack? :^)
 - Most common winconditions (critical mass t1 in small games, destroying backliners, critical mass t2/3, nukes, lolcannon etc(emphasis on why and when these things are good/bad, not HOW to do them)
 
-### Advanced Series
+## Advanced Series
 This is where we delve into specific excecutions and build comps, orders and ways to achieve the goals and concepts above
