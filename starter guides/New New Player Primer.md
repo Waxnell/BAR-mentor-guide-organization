@@ -3,6 +3,7 @@
 	- [Your fellow Gamers and how to find them](#your-fellow-gamers-and-how-to-find-them)
 		- [Don't panic because you are new](#dont-panic-because-you-are-new)
 		- [Also, try not to panic if you get suprised by Ticks or Juggernauts](#also-try-not-to-panic-if-you-get-suprised-by-ticks-or-juggernauts)
+>>>>>>> c2c57e5f1e4fbac97c0b4f491754287ac9d1b241
 
 # Hello Gamer
 
@@ -13,15 +14,23 @@ I am Tuerk, and want to give you some advice that does not *quite* fit into the 
 
 Currently, the main website (<https://www.beyondallreason.info/>) acts as the wiki for all available units and buildings available. It contains
 
+## Where to find more info
+
+Currently, the main website (<https://www.beyondallreason.info/>) acts as the wiki for all available units and buildings available. It contains
+
 ## Your fellow Gamers and how to find them
+
 
 So you want to hop on right away and duke it out, but how?
 
 Currently, your options are a very experimental matchmaking queue hidden on a website (this one -> <https://server4.beyondallreason.info/>) seperate from the main website, and manually finding a game through the match browser. The third option is browsing the LFG channel of the BAR-Discord (<https://discord.gg/beyond-all-reason>), which is also the one heart of the BAR community. If people are looking to fill up their lobbies with players, it will be announced there too.
+Currently, your options are a very experimental matchmaking queue hidden on a website (this one -> <https://server4.beyondallreason.info/>) seperate from the main website, and manually finding a game through the match browser. The third option is browsing the LFG channel of the BAR-Discord (<https://discord.gg/beyond-all-reason>), which is also the one heart of the BAR community. If people are looking to fill up their lobbies with players, it will be announced there too.
 
+Players will more than likely use the latter option, which means that most of the time, you will have to join random open lobbies, so it is important that you:
 Players will more than likely use the latter option, which means that most of the time, you will have to join random open lobbies, so it is important that you:
 
 ### Don't panic because you are new
+
 
 Honestly! Some might feel ashamed of themselves for joining a random lobby, thinking they are holding back their team by not playing well, but that's absolutely alright.
 
