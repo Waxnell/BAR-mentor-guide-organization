@@ -29,6 +29,7 @@ Let's set some ground rules you'll find common among walls in Beyond All Reason 
 ![Footprint](https://i.imgur.com/bgNgRfz.png)
 
 ### T1 Popup Turrets
+
 T1 Popups share several similarities with walls
 - T1 Popup turrets are mostly indistinguishable from walls while closed
 - Setting a T1 Popup to Hold Fire can hide it almost completely from the enemy until the right moment to strike  
@@ -180,13 +181,13 @@ You can use the /debugcolvol command to view target collision. There will be a d
 - ![Walled Popup](https://i.imgur.com/jvT0d2E.gif)
   - Side note on T1 popup turrets: make sure you set the T1 popup turrets building facing towards the enemy so they extend to fire and retract much more quickly. T2 popup turrets preserve their facing.
 
-<spoiler>
+<details>
 
-<details>Note on T2 popup turrets</details>
+<summary>Note on T2 popup turrets</summary>
 
 T2 popup turrets are also protected by T1 walls, but there is a bit of unintended behavior with Pitbulls (Arm T2 popup). If there is a wall adjacent to it and between it and its target, it will not pop up to fire. If it is already popped up (e.g. from firing beforehand), it will fire on units in range. Keep this in mind if you choose to protect pitbulls with walls.
 
-</spoiler>
+</details>
 
 Don't bother trying to block your enemy's plasma bots, medium tanks, or artillery; in fact, consider parking your plasma bots behind walls to siege against a rocket bot or missile truck spammer.
 
@@ -239,6 +240,7 @@ Walls don't work so well against opponents attacking from uphill:
 ![Walls on Ramps Uphill Outcome](https://i.imgur.com/lKJBNm3.png)
 
 ### Note on Shark's Teeth / Naval Walls - The Submarine Bunker
+
 Shark's Teeth collision extends low enough to block torpedos from enemy submarines. However, torpedos from your own submarines and depth charges from your destroyers will NOT be blocked by your walls. Your walls will block your opponent's depth charges and torpedos against subs, but probably not vs units on the ocean floor (this depends on the angle of attack). Torpedo turrets will not fire through your walls, and neither will the floating HLT.
 Many T1 ships can be protected by letting them hug walls, but it's a tossup on whether they'll be able to shoot back or not.
 
