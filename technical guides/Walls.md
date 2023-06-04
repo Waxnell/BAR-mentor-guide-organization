@@ -25,8 +25,11 @@ Let's set some ground rules you'll find common among walls in Beyond All Reason 
 - Walls can be captured, but reclaiming them is faster and they provide no line of sight, so this doesn't serve a purpose.
 - Walls cannot be repaired
 - Walls have a footprint of 2x2, which is bigger than the footprint of Perimeter Cameras (1x1)
+
 ![Footprint](https://i.imgur.com/bgNgRfz.png)
+
 ### T1 Popup Turrets
+
 T1 Popups share several similarities with walls
 - T1 Popup turrets are mostly indistinguishable from walls while closed
 - Setting a T1 Popup to Hold Fire can hide it almost completely from the enemy until the right moment to strike  
@@ -74,7 +77,9 @@ Generally, larger units will path through walls and destroy them, taking some da
 Technically, each unit has a defined "movedef" with specific "crushstrength" which will destroy walls if it exceeds their "crushresistance." Walls have a death explosion with a small AoE, so the damage varies depending on the unit's position relative to the wall, but hovers somewhere around 250 for Dragon's Teeth and 500 for Shark's Teeth and Fortification Walls.
 
 <details>
+
 <summary>Units that crush Dragon's Teeth / Shark's Teeth</summary>
+
 - Bull
 - Tiger
 - Banisher
@@ -97,10 +102,13 @@ Technically, each unit has a defined "movedef" with specific "crushstrength" whi
 - Arm/Cor Carriers (Haven, Oasis)
 - Arm/Cor Flagships (Epoch, Black Hydra)
 - All units that crush Fortification Walls
+
 </details>
 
 <details>
+
 <summary>Units that crush Fortification Walls</summary>
+
 - Thor
 - Titan
 - Juggernaut
@@ -108,18 +116,24 @@ Technically, each unit has a defined "movedef" with specific "crushstrength" whi
 </details>
 
 <details>
+
 <summary>PvE Wall Crushers</summary>
+
 All walls:
+
 - Raptor Queen
 - Epic Scavs
 - Spectre Apex Brawler
 - Apex Brawler
+
 Small walls:
+
 - Apex Paralyzer
 - Apex Acid Spitter
 - Main Assault Raptor
 - Mortar (All Types)
 - All-Terrain Brawler (All Types)
+
 </details>
 
 ## Building Lots of Walls
@@ -166,17 +180,20 @@ You can use the /debugcolvol command to view target collision. There will be a d
 - *This is especially powerful for T1 popup turrets (Dragon's Claw / Maw), which are not only disguised as walls but easily protected by them as well.*
 - ![Walled Popup](https://i.imgur.com/jvT0d2E.gif)
   - Side note on T1 popup turrets: make sure you set the T1 popup turrets building facing towards the enemy so they extend to fire and retract much more quickly. T2 popup turrets preserve their facing.
-<spoiler>
-<details>Note on T2 popup turrets</details>
+
+<details>
+
+<summary>Note on T2 popup turrets</summary>
+
 T2 popup turrets are also protected by T1 walls, but there is a bit of unintended behavior with Pitbulls (Arm T2 popup). If there is a wall adjacent to it and between it and its target, it will not pop up to fire. If it is already popped up (e.g. from firing beforehand), it will fire on units in range. Keep this in mind if you choose to protect pitbulls with walls.
-</spoiler>
+
+</details>
 
 Don't bother trying to block your enemy's plasma bots, medium tanks, or artillery; in fact, consider parking your plasma bots behind walls to siege against a rocket bot or missile truck spammer.
 
 - *Build diagonally towards the enemy!*
 
 Commanders and most tall defense towers (e.g. LLT) have a higher aimposition. This means most units will have little trouble shooting at them, even if a wall is right in front of the tower.
-# insert image
 
 So are walls useless at protecting LLTs? Not so! There is another way to force the wall in the projectiles path: build the wall further from the tower. Pawns / grunts adjacent to walls have trouble shooting at anything on the other side because their guns are basically right up against the wall, despite being angled upward. 
 
@@ -191,33 +208,48 @@ You'll want to use 0 spacing on these walls to prevent shots going through gaps 
 | 4					| Out of range			| Damage blocked at all angles |
 | 5					| Out of range			| 90% of time out of range |
 | 6					| Out of range			| Out of range |
+
 As you can see, walls directly in front of the LLT are ineffective at blocking damage on flat ground.
-At 2 wall segments of distance away, the walls start paying dividends, and at 3 wall segments away your LLT is almost immune.
-5 wall segments away is the sweet spot that forces your opponent to target the walls manually to make any progress, all while in range of the LLT.
-At 6 walls away, grunts can just barely shoot the walls to make a hole while not in range of the LLT.
+- At 2 wall segments of distance away, the walls start paying dividends
+- At 3 wall segments away your LLT is almost immune.
+- At 5 wall segments away is the sweet spot that forces your opponent to target the walls manually to make any progress, all while in range of the LLT.
+- At 6 walls away, grunts can just barely shoot the walls to make a hole while not in range of the LLT.
+
 Here's an image to show what I mean, with decreasing spacing from left to right (LLT set to hold fire):
+
 ![Protecting LLT with Walls 2](https://i.imgur.com/LeBKVR4.png)
+
 The rightmost LLTs get destroyed much more quickly, while the leftmost LLTs don't even draw fire. The furthest left LLT (6 segments) cannot target the grunt in the back that is shooting the wall (just out of range)
 
 Note, however, that rocket bots and missile trucks have plenty of range to allow projectiles to gain height and hit your towers. 
 
 Terrain can also make your walls more effective as cover. An LLT higher on a ramp with walls in front is much more resistant to raiders until the walls break. On a steep enough ramp, these walls can be placed directly in front of the tower (0 spacing) and still prove effective.
+
 ![Walls on Ramps](https://i.imgur.com/AhHLJ3Y.png)
+
 20 pawns normally would stomp three LLTs, but with walls it's a slightly different story:
+
 ![Walls on Ramps Outcome](https://imgur.com/T5EDjvH.png)
+
 With walls, the pawn force is severely weakened. Without the walls there, pawns take only marginal losses:
+
 ![No Walls on Ramps Outcome](https://i.imgur.com/ej7PCtj.png)
+
 Walls don't work so well against opponents attacking from uphill:
+
 ![Walls on Ramps Uphill Outcome](https://i.imgur.com/lKJBNm3.png)
-# insert image
 
 ### Note on Shark's Teeth / Naval Walls - The Submarine Bunker
-Shark's Teeth collision extends low enough to block torpedos from enemy submarines.
-However, torpedos from your own submarines and depth charges from your destroyers will NOT be blocked by your walls. Your walls will block your opponent's depth charges and torpedos against subs, but probably not vs units on the ocean floor (this depends on the angle of attack). Torpedo turrets will not fire through your walls, and neither will the floating HLT.
+
+Shark's Teeth collision extends low enough to block torpedos from enemy submarines. However, torpedos from your own submarines and depth charges from your destroyers will NOT be blocked by your walls. Your walls will block your opponent's depth charges and torpedos against subs, but probably not vs units on the ocean floor (this depends on the angle of attack). Torpedo turrets will not fire through your walls, and neither will the floating HLT.
 Many T1 ships can be protected by letting them hug walls, but it's a tossup on whether they'll be able to shoot back or not.
+
 ![Submarine Bunker](https://i.imgur.com/Ut9cMDb.png)
+
 2 Arm T1 subs against 4 destroyers? And only 240 metal of walls?
+
 ![Submarine Bunker 2](https://i.imgur.com/wo4QlMt.png)
+
 Might be the best T1 sea static defense in the game.
 
 ## Cleaning Up Walls
@@ -226,10 +258,10 @@ Walls can be reclaimed almost instanteneously, refunding their full metal cost. 
 Remember, you can't repair walls. Reclaim and rebuild.
 
 Your opponent may try to turn your own walls against you. While you can reclaim your own walls, you can also self-destruct them if you're in a hurry (e.g. if an enemy has pushed plasma bots onto your fortifications).
+
 ## Fortification Walls
 
-T2 Fortification Walls are simply taller and tougher Dragon's Teeth.
-Their additional height means they block direct fire weapons along with low arcing shots, like those from hounds and sheldons, with a few catches:
+T2 Fortification Walls are simply taller and tougher Dragon's Teeth. Their additional height means they block direct fire weapons along with low arcing shots, like those from hounds and sheldons, with a few catches:
 - Splash damage still works through walls
 - They won't protect you from T2 missile artillery (T2 vehicle and T2 Cor bot Arbiter)
 - The tall turrets can all fire over these, including Bulwark and Pulsar along with LLT, DLLT, and Beamer (the last two are notably in the combat engineers' build lists)
@@ -245,14 +277,6 @@ Dragon's Teeth and Fortification Walls do not disrupt cloaking. Spybots, gremlin
 T1 popup turrets (Dragon's Claw, Dragon's Maw) also do not disrupt cloak while they are disguised. Cloaked units in their vicinity will only be revealed while the turret is popped up, e.g. while attacking.
 
 ## Alternative "Walls"
-- The principles of defending your expensive stuff extend beyond the use of Dragon's Teeth.
+The principles of defending your expensive stuff extend beyond the use of Dragon's Teeth.
 - Solar panels aren't glamorous, but at least they don't die if you breathe on them too hard. In your own base, use solars to protect your base LLT.
     - Wind turbines will OBSTRUCT your LLTs, but solars will not.
-
-
-## In Game Examples
-# UNCATEGORIZED
-all that glitters replay (started West side) prior to april 25
-all that glitters replay (started NE side) April 27
-sometime in may, the purple east west map, started west side
-
