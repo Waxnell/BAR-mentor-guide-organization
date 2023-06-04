@@ -25,7 +25,9 @@ Let's set some ground rules you'll find common among walls in Beyond All Reason 
 - Walls can be captured, but reclaiming them is faster and they provide no line of sight, so this doesn't serve a purpose.
 - Walls cannot be repaired
 - Walls have a footprint of 2x2, which is bigger than the footprint of Perimeter Cameras (1x1)
+
 ![Footprint](https://i.imgur.com/bgNgRfz.png)
+
 ### T1 Popup Turrets
 T1 Popups share several similarities with walls
 - T1 Popup turrets are mostly indistinguishable from walls while closed
@@ -113,13 +115,18 @@ Technically, each unit has a defined "movedef" with specific "crushstrength" whi
 </details>
 
 <details>
+
 <summary>PvE Wall Crushers</summary>
+
 All walls:
+
 - Raptor Queen
 - Epic Scavs
 - Spectre Apex Brawler
 - Apex Brawler
+
 Small walls:
+
 - Apex Paralyzer
 - Apex Acid Spitter
 - Main Assault Raptor
