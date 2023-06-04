@@ -1,10 +1,10 @@
 - [Welcome to BAR!](#welcome-to-bar)
-	- [The Prime Directive, or how to play BAR](#the-prime-directive-or-how-to-play-bar)
-		- [Map Control](#map-control)
-	- [Starter Series](#starter-series)
-	- [Novice Series](#novice-series)
-	- [Intermediate Series](#intermediate-series)
-	- [Advanced Series](#advanced-series)
+  - [The Prime Directive, or how to play BAR](#the-prime-directive-or-how-to-play-bar)
+    - [Map Control](#map-control)
+  - [Starter Series](#starter-series)
+  - [Novice Series](#novice-series)
+  - [Intermediate Series](#intermediate-series)
+  - [Advanced Series](#advanced-series)
 
 
 # Welcome to BAR!
@@ -33,7 +33,7 @@ This series will give you everything you need to start playing the game 'properl
 - What is Porc/static? When and why do we use it?
 - Basic unit comps and the purpose of t1 units
 - Intro to Naval,"what units to build and why, and general goal regarding ships and water
-- When and why do we go T2?
+- [When and why do we go T2?](https://www.youtube.com/watch?v=opsKXfPrSC0)
   - general rule of thumb
 - [Radar,Collecting info is crucial](https://www.youtube.com/watch?v=9f2iKe2sD4c&list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8)
 
@@ -72,4 +72,8 @@ This series will give you everything you need to start playing the game 'properl
 - Most common winconditions (critical mass t1 in small games, destroying backliners, critical mass t2/3, nukes, lolcannon etc(emphasis on why and when these things are good/bad, not HOW to do them)
 
 ## Advanced Series
+
+- [Walls, and how to properly utilize them](\technical_guides\Walls.md)
+
+
 This is where we delve into specific excecutions and build comps, orders and ways to achieve the goals and concepts above
