@@ -73,7 +73,7 @@ This series will give you everything you need to start playing the game 'properl
 
 ## Advanced Series
 
-- [Walls, and how to properly utilize them](\technical_guides\Walls.md)
+- [Walls, and how to properly utilize them](/technical_guides/Walls.md)
 
 
 This is where we delve into specific excecutions and build comps, orders and ways to achieve the goals and concepts above
