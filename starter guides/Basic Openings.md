@@ -27,18 +27,22 @@ Other factories will be covered in depth in other guides:
 - Hover factory - specific to land + sea maps, usually bootstrapped with a bot factory opening
 - Shipyard - specific to sea maps or sea lanes in team games
 
+The following starter build is not always the most efficient - that depends on wind speed and how well you can manage energy in the first minute of the game. This opening focuses on consistency and ease of use.
+
 ### Steps
 
 (Assuming 3 metal extractor spot)
 
-1. 2 metal extractors
-2. 2 wind generators (if average wind is higher than 7 and current wind is higher than 4), otherwise 1 solar generator
-    - Current wind is indicated at the top-right by the windmill icon, average wind varies based on map and can be seen by mousing over the windmill icon
-3. 3rd metal extractor
-4. Bot factory, or 1 wind generator / 1 solar generator then Vehicle factory
+- 2 metal extractors[^1]
+- 1 solar collector
+- 1 metal extractor
+- 1 solar collector
+- Bot OR Vehicle Factory
     - Vehicles do better on flat ground and slow pushing, bots do better on hills and have more numbers
-5. Build more wind generators / solar panels as needed with the commander, start producing a constructor. Use the commander to partially assist the factory with the constructor, but don't run out of energy!
-6. Use the constructor to assist the factory, build ~2 scouts for base defense. Build another constructor
-7. From here you have options - make sure you have enough units to defend the base, or build a Guard/Sentry tower as protection. Get the commander to the frontline, unless you're playing as a backline techer. Build more constructors, send them out to claim metal spots. Build more units and go after your opponent.
+- Build more wind generators / solar panels as needed with the commander, start producing a constructor. Use the commander to assist the factory with the constructor, but don't run out of energy!
+- Use the constructor to assist the factory, build ~2 scouts for base defense. Build another constructor
+- From here you have options - make sure you have enough units to defend the base, or build a Guard / Sentry tower as protection. Get the commander to the frontline, unless you're playing as a backline techer. Build more constructors, send them out to claim metal spots. Build more units and go after your opponent.
 
 More detailed builds will be explained in other guides!
+
+[^1]: The commander has some passive energy generation, so if the walking distance to the 3rd mex lets you get enough energy so you don't stall, reordering to 3mex 2solar 1lab is great. Later on, once you can make snap judgment calls about where wind speed is likely to remain for the next while, you can go for riskier openings and replace the solars with wind when the conditions are right.
