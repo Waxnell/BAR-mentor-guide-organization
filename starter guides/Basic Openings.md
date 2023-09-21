@@ -1,4 +1,4 @@
-# How to Build your Factory and Open Efficiently
+# How to Build Your Factory and Open Effectively
 
 Openings in BAR vary based on map, factory choice, current wind speed, and team size. Generally, you want to build as many metal extractors close to your commander as possible, build enough energy structures so you don't run out completely, then build your factory of choice.
 
@@ -34,7 +34,7 @@ The following starter build is not always the most efficient - that depends on w
 (Assuming 3 metal extractor spot)
 
 - 2 metal extractors[^1]
-- 1 solar collector
+- 1 solar collector[^2]
 - 1 metal extractor
 - 1 solar collector
 - Bot OR Vehicle Factory
@@ -46,3 +46,5 @@ The following starter build is not always the most efficient - that depends on w
 More detailed builds will be explained in other guides!
 
 [^1]: The commander has some passive energy generation, so if the walking distance to the 3rd mex lets you get enough energy so you don't stall, reordering to 3mex 2solar 1lab is great. Later on, once you can make snap judgment calls about where wind speed is likely to remain for the next while, you can go for riskier openings and replace the solars with wind when the conditions are right.
+
+[^2]: Wind generators are preferred for maps with good wind, especially if the wind is high at the time. You can view the current wind speed at the top right windmill icon. Mouse over the icon to see the average wind speed. The small numbers denote minimum and maximum wind speed. If the current wind speed is 8 or higher, build 2 wind generators instead of 1 solar collector.
