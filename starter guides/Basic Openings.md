@@ -66,7 +66,7 @@ The following starter build is not always the most efficient - this is dependent
     - > *Move units out to help secure the front, defend against possible leaks and apply pressure to your opponent(s)*
 
 10. **Importantly, get your commander to the frontline** *(unless you're playing as a backline techer)*
-    - > *Feel free to grab some more mex along the way *
+    - > *Feel free to grab some more mex along the way*
     - > *This is important to help secure the frontline in order to secure the area behind the front - the sooner you move out, the more potential land you can secure*
     - > *Feel free to skip some of the mex as your commander moves if you're trying to get to the front faster. You can always claim those with constructors too*
 
